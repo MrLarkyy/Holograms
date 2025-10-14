@@ -19,6 +19,12 @@ out/
 ### Kotlin ###
 .kotlin
 
+.idea
+.idea/
+.idea/*
+
+.env
+
 ### Eclipse ###
 .apt_generated
 .classpath
