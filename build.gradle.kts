@@ -16,7 +16,7 @@ repositories {
 
 dependencies {
     paperweight.paperDevBundle("1.21.10-R0.1-SNAPSHOT")
-    implementation("gg.aquatic.execute:Execute:1.0.2")
+    implementation("gg.aquatic.execute:Execute:26.0.1")
     implementation("gg.aquatic.items:Items:1.0.0")
     implementation("gg.aquatic.packetutils:PacketUtils:1.0.0")
     implementation("gg.aquatic.eventutils:EventUtils:1.0.0")
