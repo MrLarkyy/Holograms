@@ -20,7 +20,7 @@ dependencies {
     implementation("gg.aquatic.items:Items:1.0.0")
     implementation("gg.aquatic.packetutils:PacketUtils:1.0.0")
     implementation("gg.aquatic.eventutils:EventUtils:1.0.0")
-    implementation("gg.aquatic.replace:Replace:1.0.0")
+    implementation("gg.aquatic.replace:Replace:26.0.2")
 }
 
 
